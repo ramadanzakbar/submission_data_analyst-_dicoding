@@ -25,7 +25,7 @@
 -  **python 3.11** dan library ***streamlit, pandas, dan matplotlib***
 
   ## link Streamlit
-  [streamlit](https://ramadanzakbar-submission-data-analyst--dicoding-app-orlufj.streamlit.app/)
+  [streamlit](https://ramadanzakbar-submission-data-analyst--dicoding-app-f1gcz2.streamlit.app/)
 
 ## Kontributor
 
