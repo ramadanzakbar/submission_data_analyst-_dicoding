@@ -22,7 +22,7 @@
 
 - Browser modern seperti Google Chrome, Mozilla Firefox, atau Safari
 
--  **python 3.**** dan library ***streamlit, pandas, dan matplotlib***
+-  **python 3.11** dan library ***streamlit, pandas, dan matplotlib***
 
   ## link Streamlit
   [streamlit](https://ramadanzakbar-submission-data-analyst--dicoding-app-orlufj.streamlit.app/)
